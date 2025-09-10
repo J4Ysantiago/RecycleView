@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-https://github.com/J4Ysantiago/AndroidApp/blob/main/AndroidApp.gif
+(https://github.com/J4Ysantiago/RecycleView/blob/main/Recycle.gif)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
